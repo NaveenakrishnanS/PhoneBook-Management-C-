@@ -1,0 +1,15 @@
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\bin\Debug\net6.0\src.exe
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\bin\Debug\net6.0\src.deps.json
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\bin\Debug\net6.0\src.runtimeconfig.json
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\bin\Debug\net6.0\src.dll
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\bin\Debug\net6.0\src.pdb
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.csproj.AssemblyReference.cache
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.dll
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\refint\src.dll
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.pdb
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\src.genruntimeconfig.cache
+C:\Users\priya\DotnetApp\Polymorphism\Static\src\obj\Debug\net6.0\ref\src.dll
